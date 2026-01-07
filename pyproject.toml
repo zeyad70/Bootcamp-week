@@ -1,0 +1,20 @@
+[project]
+name = "B5"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "jupyter-collaboration>=4.2.0",
+    "jupyter-mcp-tools>=0.1.4",
+    "jupyterlab>=4.5.1",
+    "pandas>=2.3.3",
+    "scikit-learn>=1.8.0",
+    "scipy>=1.16.3",
+    "seaborn>=0.13.2",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.1.0",
+]
