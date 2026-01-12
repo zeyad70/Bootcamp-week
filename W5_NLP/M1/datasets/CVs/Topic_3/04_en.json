@@ -1,0 +1,57 @@
+{
+    "Heading": "Khaled Al-Yousef, Data Analyst",
+    "Skills": [
+        "*",
+        "**Visualization",
+        "&",
+        "Reporting",
+        "Tools:**",
+        "Power",
+        "BI,",
+        "Tableau,",
+        "Looker,",
+        "Google",
+        "Data",
+        "Studio. *",
+        "**Data",
+        "Analysis",
+        "&",
+        "Databases:**",
+        "Advanced",
+        "SQL,",
+        "DAX,",
+        "Excel",
+        "(VBA/Pivot",
+        "Tables),",
+        "Data",
+        "Modeling. *",
+        "**Analytical",
+        "Skills:**",
+        "KPI",
+        "Design,",
+        "Root",
+        "Cause",
+        "Analysis,",
+        "Forecasting. *",
+        "**Soft",
+        "Skills:**",
+        "Data",
+        "Storytelling,",
+        "Stakeholder",
+        "Communication.  ---"
+    ],
+    "Projects": [
+        "Executive Performance Dashboard | BI Developer [02/2023 - 04/2023]  Designed a comprehensive interactive dashboard using Power BI to connect sales, marketing, and inventory data in a unified view.  Enabled senior management to reduce strategic decision-making time by 30% by providing real-time data.  Tools Used: Power BI, SQL Server, DAX.",
+        "Supply Chain Efficiency Analysis | Data Analyst [09/2022 - 11/2022]  Built Tableau reports to track delivery times and shipping costs across different regions.  Identified bottlenecks in distribution, which contributed to a 15% quarterly saving in transportation costs.  Tools Used: Tableau, Python (Pandas).  ---"
+    ],
+    "Experience": [
+        "Senior BI Analyst",
+        "National Retail Company | Riyadh [05/2022] – [Present]  Automated the weekly reporting process using SQL and Power Automate, saving the team 12 hours of manual work per week.  Designed complex Data Models to integrate multiple data sources, increasing the accuracy of financial reports by 100%.  Trained 20 employees from non-technical departments on using Self-Service BI tools to extract data.",
+        "Data Analyst",
+        "Logistics Services Group | Jeddah [03/2020] – [04/2022]  Analyzed seasonal sales trends and provided recommendations for inventory adjustment, reducing product stagnation by 20%.  Developed new Key Performance Indicators (KPIs) to measure customer satisfaction and link it to operational performance.  ---"
+    ],
+    "Education": [
+        "Bachelor of Management Information Systems (MIS)",
+        "King Saud University | Riyadh [01/2020]  Professional Certifications: Microsoft Certified: Power BI Data Analyst Associate, Google Data Analytics."
+    ]
+}

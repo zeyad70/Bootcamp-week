@@ -1,0 +1,42 @@
+{
+    "Heading": "Sultan Al-Fahim, AI Engineer",
+    "Skills": [
+        "*",
+        "**CI/CD",
+        "&",
+        "Automation:**",
+        "Jenkins,",
+        "GitLab",
+        "CI,",
+        "ArgoCD. *",
+        "**Containerization",
+        "&",
+        "Orchestration:**",
+        "Docker,",
+        "Kubernetes,",
+        "Kubeflow. *",
+        "**Cloud",
+        "Platforms:**",
+        "AWS,",
+        "Azure,",
+        "GCP. *",
+        "**Model",
+        "Management:**",
+        "MLflow,",
+        "DVC.  ---"
+    ],
+    "Projects": [
+        "CI/CD Pipeline for ML Models | MLOps Engineer [01/2023 - 05/2023]  Built an automated CI/CD pipeline for training, testing, and deploying machine learning models.  Reduced the time to deploy new models from weeks to days.",
+        "Model Monitoring System | DevOps Engineer [06/2022 - 10/2022]  Developed a system to monitor the performance of machine learning models in production.  Set up alerts to notify the team of model drift or performance degradation.  ---"
+    ],
+    "Experience": [
+        "MLOps Engineer",
+        "Emirates | Dubai [11/2021] – [Present]  Building and maintaining the MLOps platform for the airline.  Working with data scientists to productionize their models.  Ensuring the reliability and scalability of machine learning systems.",
+        "Cloud Engineer",
+        "Souq.com (now Amazon.ae) | Dubai [09/2019] – [10/2021]  Worked on the infrastructure team, managing the company's AWS environment.  Gained experience with infrastructure as code (Terraform).  ---"
+    ],
+    "Education": [
+        "Bachelor of Science in Computer Science",
+        "American University in Dubai | Dubai [07/2019]  Professional Certifications: Certified Kubernetes Administrator (CKA), AWS Certified DevOps Engineer – Professional."
+    ]
+}

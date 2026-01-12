@@ -1,0 +1,40 @@
+{
+    "Heading": "Mohammed Al-Balushi, Data Analyst",
+    "Skills": [
+        "*",
+        "**Modern",
+        "Data",
+        "Stack:**",
+        "dbt,",
+        "Snowflake,",
+        "Fivetran. *",
+        "**BI",
+        "&",
+        "Visualization:**",
+        "Looker,",
+        "Power",
+        "BI. *",
+        "**Core",
+        "Languages:**",
+        "SQL,",
+        "Python. *",
+        "**Workflow",
+        "Orchestration:**",
+        "Dagster,",
+        "Airflow.  ---"
+    ],
+    "Projects": [
+        "Subscription Analytics Model | Analytics Engineer [03/2023 - 08/2023]  Built a comprehensive data model in dbt for a subscription-based business.  Modeled MRR, churn, and customer lifetime value.",
+        "Data Quality Automation | Data Engineer [09/2022 - 01/2023]  Implemented automated data quality testing within the dbt project.  Greatly increased trust in the data and reduced time spent on manual validation.  ---"
+    ],
+    "Experience": [
+        "Analytics Engineer",
+        "Talabat | Muscat, Oman [02/2022] – [Present]  Building the analytics engineering layer for one of the region's largest food delivery platforms.  Creating clean, reliable, and well-documented data models for analysts.  Championing the use of dbt and software engineering best practices.",
+        "Business Analyst",
+        "Oman Arab Bank | Muscat, Oman [12/2019] – [01/2022]  Translated business needs into technical requirements.  Wrote SQL queries to perform analysis for the retail banking division.  ---"
+    ],
+    "Education": [
+        "Bachelor of Science in Management Information Systems (MIS)",
+        "Sultan Qaboos University | Muscat, Oman [10/2019]  Certifications: dbt Certified Developer."
+    ]
+}

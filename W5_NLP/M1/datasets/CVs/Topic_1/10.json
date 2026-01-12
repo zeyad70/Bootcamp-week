@@ -1,0 +1,54 @@
+{
+    "Heading": "Ali Bin Nasser, AI Engineer",
+    "Skills": [
+        "*",
+        "**Research",
+        "Areas:**",
+        "Natural",
+        "Language",
+        "Processing,",
+        "Deep",
+        "Learning,",
+        "Representation",
+        "Learning. *",
+        "**Programming",
+        "&",
+        "Frameworks:**",
+        "Python,",
+        "PyTorch,",
+        "TensorFlow,",
+        "Hugging",
+        "Face",
+        "Transformers. *",
+        "**Mathematical",
+        "Foundations:**",
+        "Advanced",
+        "Linear",
+        "Algebra,",
+        "Probability",
+        "Theory,",
+        "Optimization. *",
+        "**Publication",
+        "Venues:**",
+        "NeurIPS,",
+        "ICML,",
+        "ACL,",
+        "EMNLP.  ---"
+    ],
+    "Projects": [
+        "Cross-lingual Transfer Learning for Low-Resource Languages | PhD Researcher [2020 - 2024]    Investigated methods for adapting large pre-trained language models to languages with limited data.    Proposed a novel adapter-based fine-tuning technique that outperformed previous methods by 5% on a benchmark of 10 low-resource languages.",
+        "Efficient Transformers | Research Intern [Summer 2022]    Contributed to the development of a new sparse attention mechanism to reduce the computational cost of Transformer models.    Co-authored a paper accepted at the NeurIPS 2022 conference.  ---"
+    ],
+    "Experience": [
+        "Research Scientist",
+        "Mohamed bin Zayed University of AI (MBZUAI) | Abu Dhabi [02/2024] – [Present]    Conducting fundamental research in the area of large-scale language modeling.    Mentoring PhD students and collaborating with faculty on research projects.  ---"
+    ],
+    "Education": [
+        "PhD in Computer Science",
+        "Stanford University | Stanford, CA [01/2024]    Advisor: Prof. Christopher Manning",
+        "Master of Science in Computer Science",
+        "New York University | New York, NY [05/2019]",
+        "Bachelor of Engineering in Computer Engineering",
+        "American University of Sharjah | Sharjah [05/2017]"
+    ]
+}

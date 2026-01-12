@@ -1,0 +1,43 @@
+{
+    "Heading": "Khalid Al-Ameri, Data Analyst",
+    "Skills": [
+        "*",
+        "**Big",
+        "Data:**",
+        "Spark,",
+        "Hadoop,",
+        "Hive. *",
+        "**Streaming:**",
+        "Kafka,",
+        "Flink. *",
+        "**Databases:**",
+        "PostgreSQL,",
+        "Cassandra. *",
+        "**Cloud:**",
+        "Azure",
+        "(Data",
+        "Lake",
+        "Storage,",
+        "Databricks,",
+        "Data",
+        "Factory). *",
+        "**Languages:**",
+        "Scala,",
+        "Python,",
+        "SQL.  ---"
+    ],
+    "Projects": [
+        "Clickstream Data Processing | Streaming Data Engineer [01/2023 - 05/2023]  Built a real-time pipeline with Kafka and Flink to process website clickstream data.  Populated a dashboard for real-time user behavior analysis.",
+        "Data Warehouse Modernization | Data Architect [04/2022 - 09/2022]  Contributed to the migration of an on-premise data warehouse to Azure Synapse Analytics.  Designed and implemented data models in the new cloud data warehouse.  ---"
+    ],
+    "Experience": [
+        "Data Engineer",
+        "Elm | Riyadh, Saudi Arabia [10/2021] – [Present]  Building data pipelines and data-intensive applications for government clients.  Working with large and complex datasets related to public services.  Ensuring data security and compliance with national data regulations.",
+        "Database Administrator",
+        "Saudi Telecom Company (STC) | Riyadh, Saudi Arabia [08/2019] – [09/2021]  Managed and maintained large-scale Oracle databases.  Performed database tuning and optimization.  ---"
+    ],
+    "Education": [
+        "Bachelor of Science in Information Systems",
+        "King Saud University | Riyadh, Saudi Arabia [06/2019]  Certifications: Azure Data Engineer Associate (DP-203)."
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "Heading": "Zainab Al-Lawati, Data Analyst",
+    "Skills": [
+        "*",
+        "**Data",
+        "Stack:**",
+        "dbt,",
+        "Snowflake,",
+        "Fivetran,",
+        "Airflow. *",
+        "**Languages:**",
+        "SQL,",
+        "Python. *",
+        "**BI",
+        "Tools:**",
+        "Looker,",
+        "Tableau. *",
+        "**Software",
+        "Engineering:**",
+        "Git,",
+        "CI/CD.  ---"
+    ],
+    "Projects": [
+        "Building a Single Source of Truth for Sales Data | Analytics Engineer [02/2023 - 07/2023]  Used dbt to transform raw data from Salesforce and other systems into a clean, reliable sales data model.  Empowered the sales team with self-service analytics in Looker.",
+        "Customer Segmentation Model | Data Analyst [06/2022 - 11/2022]  Developed SQL-based models for customer segmentation.  The insights were used to create targeted marketing campaigns, increasing ROI by 15%.  ---"
+    ],
+    "Experience": [
+        "Analytics Engineer",
+        "Omantel | Muscat [12/2021] – [Present]  Building and maintaining the company's modern data stack.  Writing clean, efficient, and well-documented dbt code.  Working closely with stakeholders to understand their data needs.",
+        "Data Analyst",
+        "Bank Muscat | Muscat [10/2019] – [11/2021]  Wrote complex SQL queries to extract and analyze data.  Created reports and dashboards for various business units.  ---"
+    ],
+    "Education": [
+        "Bachelor of Science in Information Systems",
+        "Sultan Qaboos University | Muscat [08/2019]  Professional Certifications: dbt Analytics Engineering Certification."
+    ]
+}

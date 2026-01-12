@@ -1,0 +1,47 @@
+{
+    "Heading": "Rashid Al-Naimi, Data Scientist",
+    "Skills": [
+        "*",
+        "**Programming",
+        "Languages:**",
+        "Python,",
+        "R,",
+        "SQL. *",
+        "**Machine",
+        "Learning:**",
+        "Scikit-learn,",
+        "XGBoost,",
+        "LightGBM,",
+        "TensorFlow. *",
+        "**Data",
+        "Visualization:**",
+        "Tableau,",
+        "Power",
+        "BI,",
+        "Matplotlib. *",
+        "**Statistical",
+        "Analysis:**",
+        "A/B",
+        "Testing,",
+        "Hypothesis",
+        "Testing,",
+        "Causal",
+        "Inference.  ---"
+    ],
+    "Projects": [
+        "Product Recommendation Engine | Data Scientist [02/2023 - 05/2023]  Developed a collaborative filtering-based recommendation engine for an e-commerce platform.  Increased user engagement by 20% and sales by 10%.",
+        "Sentiment Analysis of Customer Feedback | NLP Specialist [07/2022 - 10/2022]  Built a sentiment analysis model to classify customer feedback into positive, negative, and neutral categories.  Provided actionable insights to the product team, leading to a 15% improvement in customer satisfaction.  ---"
+    ],
+    "Experience": [
+        "Data Scientist",
+        "Qatar Computing Research Institute (QCRI) | Doha [06/2021] – [Present]  Conducting research in the areas of social computing and data mining.  Published 3 papers in top-tier conferences (ICWSM, The Web Conf).  Collaborating with industry partners to apply research to real-world problems.",
+        "Data Analyst",
+        "Sidra Medicine | Doha [05/2019] – [05/2021]  Analyzed clinical data to identify trends and patterns.  Created dashboards to monitor key performance indicators for the hospital.  ---"
+    ],
+    "Education": [
+        "Master of Science in Data Analytics",
+        "Hamad Bin Khalifa University | Doha [04/2019]",
+        "Bachelor of Science in Statistics",
+        "Qatar University | Doha [05/2017]"
+    ]
+}

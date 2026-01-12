@@ -1,0 +1,44 @@
+{
+    "Heading": "Abdullah Al-Saleh, Data Analyst",
+    "Skills": [
+        "*",
+        "**Visualization:**",
+        "Tableau,",
+        "Looker. *",
+        "**Data:**",
+        "SQL,",
+        "Google",
+        "Analytics,",
+        "Salesforce. *",
+        "**ETL",
+        "Concepts:**",
+        "Understanding",
+        "of",
+        "data",
+        "extraction",
+        "and",
+        "transformation. *",
+        "**Stakeholder",
+        "Management:**",
+        "Excellent",
+        "communication",
+        "and",
+        "requirement",
+        "gathering",
+        "skills.  ---"
+    ],
+    "Projects": [
+        "Supply Chain & Logistics Dashboard | BI Analyst [03/2023 - 08/2023]  Built a Tableau dashboard to monitor key supply chain metrics like inventory turnover and on-time delivery.  Identified bottlenecks in the logistics process, leading to a 15% cost saving.",
+        "Digital Marketing Campaign Analysis | Data Analyst [09/2022 - 01/2023]  Analyzed the performance of digital marketing campaigns using Google Analytics.  Created dashboards to track ROI and other key marketing KPIs.  ---"
+    ],
+    "Experience": [
+        "BI Analyst",
+        "Saudia Airlines | Jeddah, Saudi Arabia [02/2022] – [Present]  Developing and maintaining dashboards for various departments including sales, operations, and finance.  Providing ad-hoc analysis to support business decisions.  Training end-users to leverage self-service analytics.",
+        "Sales Operations Coordinator",
+        "Nahdi Medical Company | Jeddah, Saudi Arabia [12/2019] – [01/2022]  Supported the sales team with reporting and data entry.  Gained a deep understanding of sales processes and data.  ---"
+    ],
+    "Education": [
+        "Bachelor of Science in Industrial Engineering",
+        "King Abdulaziz University | Jeddah, Saudi Arabia [10/2019]  Certifications: Tableau Desktop Specialist."
+    ]
+}

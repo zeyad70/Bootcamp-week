@@ -1,0 +1,45 @@
+{
+    "Heading": "Ahmed Taha, AI Engineer",
+    "Skills": [
+        "*",
+        "**Research",
+        "Focus:**",
+        "Machine",
+        "Translation,",
+        "Dialogue",
+        "Systems,",
+        "Arabic",
+        "NLP. *",
+        "**Deep",
+        "Learning:**",
+        "Transformers,",
+        "RNNs,",
+        "Attention",
+        "Mechanisms. *",
+        "**Frameworks:**",
+        "PyTorch,",
+        "Hugging",
+        "Face,",
+        "Fairseq. *",
+        "**Publications:**",
+        "ACL,",
+        "EMNLP,",
+        "COLING.  ---"
+    ],
+    "Projects": [
+        "Low-Resource Neural Machine Translation | PhD Researcher [2018 - 2022]  Developed methods for training NMT systems for language pairs with limited parallel data, focusing on Arabic dialects.  Proposed a novel back-translation technique that became widely adopted.",
+        "Task-Oriented Dialogue System | Research Intern [Summer 2021]  Built a dialogue system for booking flights in Arabic.  Worked on all components, including NLU, dialogue management, and NLG.  ---"
+    ],
+    "Experience": [
+        "Research Scientist",
+        "Microsoft | Cairo, Egypt [01/2023] – [Present]  Conducting research on large language models for the Arabic language.  Contributing to the development of Microsoft's AI products for the MENA region.  Publishing research in top-tier academic venues.  ---"
+    ],
+    "Education": [
+        "PhD in Computer Science",
+        "The British University in Egypt | Cairo, Egypt [12/2022]  Thesis: \"Neural Machine Translation for Low-Resource Arabic Dialects\"",
+        "Master of Science in Computer Science",
+        "Ain Shams University | Cairo, Egypt [06/2018]",
+        "Bachelor of Engineering in Computer Engineering",
+        "Ain Shams University | Cairo, Egypt [06/2016]"
+    ]
+}

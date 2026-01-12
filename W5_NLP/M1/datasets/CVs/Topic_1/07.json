@@ -1,0 +1,56 @@
+{
+    "Heading": "Fatima Al-Zahrani, AI Engineer",
+    "Skills": [
+        "*",
+        "**Programming",
+        "Languages:**",
+        "Python,",
+        "PyTorch,",
+        "JAX. *",
+        "**Generative",
+        "Models:**",
+        "GANs,",
+        "VAEs,",
+        "Diffusion",
+        "Models,",
+        "Transformers",
+        "(GPT-4,",
+        "Llama). *",
+        "**Tools",
+        "&",
+        "Platforms:**",
+        "LangChain,",
+        "Vector",
+        "Databases",
+        "(Pinecone,",
+        "Milvus),",
+        "Midjourney,",
+        "DALL-E. *",
+        "**Cloud",
+        "&",
+        "MLOps:**",
+        "Google",
+        "Cloud",
+        "(Vertex",
+        "AI),",
+        "Docker,",
+        "Gradio,",
+        "Streamlit.  ---"
+    ],
+    "Projects": [
+        "AI-Powered Content Generation Platform | Lead Generative AI Developer [03/2023 - 07/2023]    Developed a system using LLMs to automatically generate marketing copy and social media posts.    Fine-tuned a GPT model on brand-specific data, improving content relevance by 40%.",
+        "Image Synthesis for Product Design | Creative AI Researcher [10/2022 - 01/2023]    Built a custom StyleGAN2 model to generate novel furniture designs from textual descriptions.    The generated images accelerated the prototyping phase by 50%.  ---"
+    ],
+    "Experience": [
+        "Generative AI Specialist",
+        "Innovatech Solutions | Jeddah [08/2023] – [Present]    Designing and implementing RAG (Retrieval-Augmented Generation) pipelines for enterprise search.    Improving query responses by integrating knowledge graphs with LLMs, leading to a 30% reduction in \"no-answer\" results.    Building custom agents for automated workflows using LangChain.",
+        "Machine Learning Intern",
+        "Creative Labs | Riyadh [06/2022] – [08/2022]    Assisted in training a diffusion model for high-resolution image inpainting.    Contributed to a research paper on prompt engineering techniques.  ---"
+    ],
+    "Education": [
+        "Master of Artificial Intelligence",
+        "KAUST | Thuwal [06/2023]    Thesis: \"Controllable Text-to-Image Generation using Latent Diffusion Models\"",
+        "Bachelor of Computer Engineering",
+        "Effat University | Jeddah [05/2021]"
+    ]
+}

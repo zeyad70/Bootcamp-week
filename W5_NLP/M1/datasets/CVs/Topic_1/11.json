@@ -1,0 +1,51 @@
+{
+    "Heading": "Nasser Al-Khaldi, AI Engineer",
+    "Skills": [
+        "*",
+        "**Programming",
+        "Languages:**",
+        "Python,",
+        "Java,",
+        "Scala. *",
+        "**Machine",
+        "&",
+        "Deep",
+        "Learning:**",
+        "TensorFlow,",
+        "Keras,",
+        "PyTorch,",
+        "Scikit-learn,",
+        "OpenCV. *",
+        "**Deployment",
+        "&",
+        "Cloud",
+        "Computing:**",
+        "Docker,",
+        "Kubernetes,",
+        "Azure",
+        "ML,",
+        "AWS",
+        "SageMaker. *",
+        "**Specializations:**",
+        "Computer",
+        "Vision,",
+        "Predictive",
+        "Analytics.  ---"
+    ],
+    "Projects": [
+        "Automated Quality Control System | Computer Vision Engineer [03/2023 - 06/2023]  Developed a CNN-based model to detect manufacturing defects with 99.5% accuracy.  Deployed the model on an edge device using TensorFlow Lite for real-time inference.",
+        "Customer Churn Prediction Model | Machine Learning Engineer [08/2022 - 11/2022]  Built a model to predict customer churn, which helped reduce churn by 15%.  Utilized SHAP for model interpretability, providing insights into churn drivers.  ---"
+    ],
+    "Experience": [
+        "AI Engineer",
+        "Saudi Aramco | Dhahran [07/2022] – [Present]  Developing and deploying machine learning models for predictive maintenance on oil and gas equipment.  Reduced equipment downtime by 20% by predicting failures before they occur.  Working on a team to build a centralized MLOps platform.",
+        "Junior AI Engineer",
+        "SABIC | Riyadh [06/2020] – [06/2022]  Assisted in the development of models for optimizing chemical manufacturing processes.  Contributed to a 5% increase in production efficiency.  ---"
+    ],
+    "Education": [
+        "Master of Science in Artificial Intelligence",
+        "King Abdullah University of Science and Technology (KAUST) | Thuwal [05/2020]",
+        "Bachelor of Science in Computer Engineering",
+        "King Fahd University of Petroleum and Minerals (KFUPM) | Dhahran [05/2018]"
+    ]
+}

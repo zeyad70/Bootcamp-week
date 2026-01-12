@@ -1,0 +1,40 @@
+{
+    "Heading": "Laila Al-Qahtani, AI Engineer",
+    "Skills": [
+        "*",
+        "**LLMs:**",
+        "Fine-tuning,",
+        "Prompt",
+        "Engineering,",
+        "Retrieval-Augmented",
+        "Generation",
+        "(RAG). *",
+        "**Frameworks:**",
+        "LangChain,",
+        "LlamaIndex,",
+        "Hugging",
+        "Face. *",
+        "**Backend:**",
+        "Python,",
+        "FastAPI,",
+        "Node.js. *",
+        "**Vector",
+        "DBs:**",
+        "Pinecone,",
+        "ChromaDB.  ---"
+    ],
+    "Projects": [
+        "AI-Powered Code Assistant | LLM Application Developer [03/2023 - 08/2023]  Fine-tuned a code-generation model on a proprietary codebase.  Built a VS Code extension that provided intelligent code completion and documentation generation.",
+        "Conversational Search for Internal Documents | NLP Engineer [08/2022 - 01/2023]  Built a Q&A system over a large corpus of internal company documents using a RAG approach.  Improved employee productivity by reducing time spent searching for information.  ---"
+    ],
+    "Experience": [
+        "Generative AI Specialist",
+        "IBM | Dubai, UAE [09/2022] – [Present]  Helping enterprise clients build and deploy generative AI solutions using IBM's Watsonx platform.  Developing custom models and AI-powered applications.  Focusing on responsible and ethical AI.",
+        "Full Stack Developer",
+        "Talabat | Dubai, UAE [07/2020] – [08/2022]  Developed and maintained features for the Talabat web and mobile applications.  Worked across the full stack, from the frontend (React) to the backend (Node.js).  ---"
+    ],
+    "Education": [
+        "Bachelor of Science in Computer Science",
+        "New York University Abu Dhabi | Abu Dhabi, UAE [05/2020]"
+    ]
+}

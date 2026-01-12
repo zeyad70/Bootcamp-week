@@ -1,0 +1,43 @@
+{
+    "Heading": "Omar Bin Talal, AI Engineer",
+    "Skills": [
+        "*",
+        "**Generative",
+        "Models:**",
+        "StyleGAN,",
+        "Diffusion",
+        "Models,",
+        "VQ-VAE. *",
+        "**3D",
+        "&",
+        "Vision:**",
+        "NeRF,",
+        "Gaussian",
+        "Splatting,",
+        "OpenCV. *",
+        "**Frameworks:**",
+        "PyTorch,",
+        "JAX,",
+        "Three.js. *",
+        "**MLOps:**",
+        "Docker,",
+        "FastAPI,",
+        "Gradio.  ---"
+    ],
+    "Projects": [
+        "Text-to-3D Asset Generation | Creative AI Specialist [04/2023 - 09/2023]  Developed a pipeline to generate 3D models from text prompts using a combination of LLMs and diffusion models.  The generated assets were used in a virtual reality environment.",
+        "AI-Generated Art Installation | Freelance AI Artist [10/2022 - 02/2023]  Created an interactive art installation where users could generate images based on their voice.  Used a combination of speech-to-text and text-to-image models.  ---"
+    ],
+    "Experience": [
+        "Generative AI Specialist",
+        "NEOM | Tabuk, Saudi Arabia [10/2023] – [Present]  Researching and developing generative AI applications for architecture, design, and entertainment.  Building \"digital twin\" simulations using a combination of computer vision and generative 3D models.  Collaborating with architects and designers to explore AI-assisted creativity.",
+        "Machine Learning Engineer, Computer Vision",
+        "SDAIA | Riyadh, Saudi Arabia [08/2021] – [09/2023]  Worked on computer vision projects for smart city applications.  Deployed models for traffic analysis and public safety.  ---"
+    ],
+    "Education": [
+        "Master of Science in Vision and Robotics (VIBOT)",
+        "Erasmus Mundus Scholarship | Europe [07/2021]",
+        "Bachelor of Science in Computer Graphics & Animation",
+        "Prince Sultan University | Riyadh, Saudi Arabia [06/2019]"
+    ]
+}

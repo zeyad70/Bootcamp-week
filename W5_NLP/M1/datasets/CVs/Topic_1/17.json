@@ -1,0 +1,45 @@
+{
+    "Heading": "Dana Al-Jaber, AI Engineer",
+    "Skills": [
+        "*",
+        "**Generative",
+        "Models:**",
+        "Diffusion",
+        "Models",
+        "(Stable",
+        "Diffusion),",
+        "LLMs",
+        "(GPT-3,",
+        "Falcon),",
+        "NeRFs. *",
+        "**Frameworks:**",
+        "PyTorch,",
+        "LangChain,",
+        "Diffusers. *",
+        "**Vector",
+        "Databases:**",
+        "Milvus,",
+        "Weaviate. *",
+        "**Applications:**",
+        "Text-to-Image,",
+        "Text-to-Video,",
+        "Conversational",
+        "AI.  ---"
+    ],
+    "Projects": [
+        "Fine-tuning LLMs for Domain-Specific Chatbots | NLP Engineer [04/2023 - 08/2023]  Fine-tuned a 7B parameter LLM on a legal document corpus to create a specialized legal assistant chatbot.  Achieved a 30% improvement in accuracy on a domain-specific Q&A benchmark.",
+        "3D Scene Generation from Text | Research Intern [Summer 2022]  Implemented a Neural Radiance Field (NeRF) model to generate 3D scenes from textual descriptions.  Contributed to a workshop paper at CVPR.  ---"
+    ],
+    "Experience": [
+        "Generative AI Specialist",
+        "Majid Al Futtaim | Dubai [09/2023] – [Present]  Developing generative AI solutions for hyper-personalized marketing and customer experience.  Building a system to generate product descriptions and ad copy automatically.  Exploring the use of generative AI for virtual try-on in fashion retail.",
+        "AI Resident",
+        "Google | Zurich [09/2022] – [08/2023]  Conducted research on large-scale generative models.  Gained experience with JAX and TPUs.  ---"
+    ],
+    "Education": [
+        "Master of Science in Computer Science, AI Specialization",
+        "EPFL | Lausanne, Switzerland [07/2022]",
+        "Bachelor of Science in Electrical Engineering",
+        "American University of Beirut | Beirut [06/2020]"
+    ]
+}

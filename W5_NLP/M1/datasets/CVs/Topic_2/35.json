@@ -1,0 +1,52 @@
+{
+    "Heading": "Youssef El-Masry, Data Analyst",
+    "Skills": [
+        "*",
+        "**Data",
+        "Governance",
+        "Platforms:**",
+        "Collibra,",
+        "Alation. *",
+        "**Data",
+        "Quality:**",
+        "Informatica",
+        "Data",
+        "Quality",
+        "(IDQ),",
+        "Trillium. *",
+        "**MDM:**",
+        "Proficient",
+        "in",
+        "Master",
+        "Data",
+        "Management",
+        "concepts",
+        "and",
+        "best",
+        "practices. *",
+        "**Regulations:**",
+        "Strong",
+        "knowledge",
+        "of",
+        "GDPR",
+        "and",
+        "local",
+        "data",
+        "protection",
+        "laws.  ---"
+    ],
+    "Projects": [
+        "Data Lineage Implementation | Data Governance Analyst [02/2023 - 07/2023]  Led a project to document end-to-end data lineage for critical financial reports.  Used Alation to automatically scan and map data flows.",
+        "Business Glossary Development | Data Steward [05/2022 - 10/2022]  Worked with business stakeholders to create and maintain a business glossary.  Ensured that key business terms were clearly defined and socialized.  ---"
+    ],
+    "Experience": [
+        "Data Governance Specialist",
+        "Fawry | Cairo, Egypt [11/2021] – [Present]  Implementing the data governance framework for the company.  Establishing processes for data quality monitoring and issue resolution.  Promoting a culture of data accountability.",
+        "Data Analyst",
+        "Orange Egypt | Cairo, Egypt [09/2019] – [10/2021]  Analyzed customer data to support marketing campaigns.  Developed reports and dashboards for the commercial team.  ---"
+    ],
+    "Education": [
+        "Bachelor of Science in Statistics and Computer Science",
+        "Cairo University | Giza, Egypt [07/2019]  Certifications: DAMA CDMP - Associate, Collibra Certified Ranger."
+    ]
+}

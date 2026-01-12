@@ -1,0 +1,53 @@
+{
+    "Heading": "Omar Sharif, Data Analyst",
+    "Skills": [
+        "*",
+        "**Data",
+        "Governance:**",
+        "Data",
+        "Stewardship,",
+        "Data",
+        "Quality,",
+        "Metadata",
+        "Management. *",
+        "**Frameworks",
+        "&",
+        "Tools:**",
+        "DAMA-DMBOK,",
+        "Collibra,",
+        "Informatica",
+        "Axon. *",
+        "**Compliance:**",
+        "Data",
+        "Privacy",
+        "regulations",
+        "(e.g.,",
+        "Egypt's",
+        "DPL). *",
+        "**Databases",
+        "&",
+        "SQL:**",
+        "Proficient",
+        "in",
+        "SQL",
+        "for",
+        "data",
+        "analysis",
+        "and",
+        "profiling.  ---"
+    ],
+    "Projects": [
+        "Data Governance Framework Implementation | Data Governance Manager [01/2023 - 06/2023]  Led the establishment of an enterprise-wide data governance framework.  Defined roles and responsibilities for data stewards and owners across 10 business units.",
+        "Master Data Management (MDM) Initiative | Data Quality Analyst [05/2022 - 10/2022]  Played a key role in a project to create a single source of truth for customer data.  Developed data quality rules and processes to ensure the accuracy of master data.  ---"
+    ],
+    "Experience": [
+        "Data Governance Specialist",
+        "Commercial International Bank (CIB) | Cairo [11/2021] – [Present]  Responsible for implementing and managing the bank's data governance program.  Working to improve the quality, consistency, and security of the bank's data assets.  Facilitating the Data Governance Council meetings.",
+        "IT Auditor",
+        "EY | Cairo [09/2019] – [10/2021]  Performed IT general controls and application controls testing for clients in the financial services industry.  Gained experience with data management and security best practices.  ---"
+    ],
+    "Education": [
+        "Bachelor of Science in Accounting and Information Systems",
+        "The American University in Cairo | Cairo [07/2019]  Professional Certifications: Certified Information Systems Auditor (CISA), DAMA Certified Data Management Professional (CDMP)."
+    ]
+}

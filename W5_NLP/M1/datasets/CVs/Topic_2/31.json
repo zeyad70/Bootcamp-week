@@ -1,0 +1,45 @@
+{
+    "Heading": "Jassim Al-Mulla, Data Scientist",
+    "Skills": [
+        "*",
+        "**Data",
+        "Architecture:**",
+        "Data",
+        "Mesh,",
+        "Lakehouse",
+        "Architecture. *",
+        "**Big",
+        "Data",
+        "Platforms:**",
+        "Databricks,",
+        "Snowflake. *",
+        "**Streaming:**",
+        "Spark",
+        "Structured",
+        "Streaming,",
+        "Kafka. *",
+        "**Cloud:**",
+        "Azure,",
+        "AWS. *",
+        "**Governance:**",
+        "Unity",
+        "Catalog,",
+        "Collibra.  ---"
+    ],
+    "Projects": [
+        "Enterprise Data Mesh Implementation | Principal Data Architect [03/2023 - Present]  Leading the initiative to implement a decentralized data mesh architecture.  Empowering domains to own and serve their own data products.",
+        "Unified Data Analytics Platform | Cloud Solutions Architect [01/2022 - 02/2023]  Architected a unified analytics platform on Databricks, integrating data from various sources.  Enabled both BI and Machine Learning workloads on a single platform.  ---"
+    ],
+    "Experience": [
+        "Big Data Architect",
+        "QatarEnergy | Doha, Qatar [12/2021] – [Present]  Setting the technical direction for the company's data and AI platforms.  Designing scalable and future-proof data architectures.  Guiding teams on best practices for data modeling and data engineering.",
+        "Senior Data Consultant",
+        "Accenture | Dubai, UAE [10/2018] – [11/2021]  Advised clients in the energy sector on their data strategy and architecture.  Designed and delivered several large-scale data projects.  ---"
+    ],
+    "Education": [
+        "Master of Information Systems Management",
+        "Carnegie Mellon University | Pittsburgh, PA [08/2018]",
+        "Bachelor of Science in Computer Engineering",
+        "Qatar University | Doha, Qatar [06/2016]"
+    ]
+}

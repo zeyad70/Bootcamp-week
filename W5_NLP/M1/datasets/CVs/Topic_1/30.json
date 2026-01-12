@@ -1,0 +1,43 @@
+{
+    "Heading": "Nouf Al-Hamad, AI Engineer",
+    "Skills": [
+        "*",
+        "**Model",
+        "Deployment:**",
+        "BentoML,",
+        "TorchServe. *",
+        "**Experiment",
+        "Tracking:**",
+        "MLflow,",
+        "Weights",
+        "&",
+        "Biases. *",
+        "**Cloud:**",
+        "Azure",
+        "ML,",
+        "GCP",
+        "Vertex",
+        "AI. *",
+        "**Containerization:**",
+        "Docker,",
+        "Podman. *",
+        "**Automation:**",
+        "GitLab",
+        "CI/CD,",
+        "Airflow.  ---"
+    ],
+    "Projects": [
+        "Model Registry and Versioning System | ML Engineer [01/2023 - 06/2023]  Implemented a centralized model registry using MLflow to track and version all production models.  Simplified model rollback and promotion processes.",
+        "Data Versioning for Reproducibility | MLOps Specialist [06/2022 - 11/2022]  Integrated DVC into the ML workflow to version data and models.  Ensured full reproducibility of all machine learning experiments.  ---"
+    ],
+    "Experience": [
+        "MLOps Engineer",
+        "Careem | Dubai, UAE [12/2021] – [Present]  Building and scaling the MLOps infrastructure for a variety of ML applications (e.g., ETA prediction, fraud detection).  Reducing the 'lab-to-live' time for new models.  Championing best practices for production machine learning.",
+        "Backend Engineer",
+        "Dubizzle | Dubai, UAE [10/2019] – [11/2021]  Developed and maintained backend microservices in Python.  Gained experience with APIs, databases, and distributed systems.  ---"
+    ],
+    "Education": [
+        "Bachelor of Science in Software Engineering",
+        "University of Sharjah | Sharjah, UAE [08/2019]  Certifications: DeepLearning.AI Machine Learning Engineering for Production (MLOps) Specialization."
+    ]
+}

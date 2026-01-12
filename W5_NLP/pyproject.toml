@@ -1,0 +1,33 @@
+[project]
+name = "w5-nlp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "camel-tools>=1.5.7",
+    "edge-tts>=7.2.7",
+    "ekphrasis>=0.5.4",
+    "farasapy>=0.1.1",
+    "joblib>=1.5.3",
+    "kaggle>=1.8.3",
+    "matplotlib>=3.10.8",
+    "nltk>=3.9.2",
+    "numpy>=1.26.4",
+    "pandas>=2.3.3",
+    "pyarabic>=0.6.15",
+    "pyspellchecker>=0.8.4",
+    "qalsadi>=0.5.1",
+    "regex>=2025.11.3",
+    "scikit-learn>=1.8.0",
+    "seaborn>=0.13.2",
+    "tiktoken>=0.12.0",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.1.0",
+    "nbformat>=5.10.4",
+    "pandoc>=2.4",
+    "pillow>=12.1.0",
+]

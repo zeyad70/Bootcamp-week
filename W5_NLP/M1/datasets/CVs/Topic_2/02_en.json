@@ -1,0 +1,54 @@
+{
+    "Heading": "Omar Al-Ghamdi, Data Analyst",
+    "Skills": [
+        "*",
+        "**Programming",
+        "Languages:**",
+        "Python,",
+        "Scala,",
+        "Java,",
+        "SQL",
+        "(NoSQL",
+        "&",
+        "Relational). *",
+        "**Big",
+        "Data",
+        "Tools:**",
+        "Apache",
+        "Spark,",
+        "Hadoop,",
+        "Kafka,",
+        "Airflow. *",
+        "**Cloud",
+        "Computing",
+        "&",
+        "Warehouses:**",
+        "AWS",
+        "(Redshift,",
+        "Glue,",
+        "EMR),",
+        "Google",
+        "BigQuery,",
+        "Snowflake. *",
+        "**Infrastructure:**",
+        "Terraform,",
+        "Docker,",
+        "Kubernetes,",
+        "Linux/Bash",
+        "Scripting.  ---"
+    ],
+    "Projects": [
+        "Cloud Data Warehouse Migration | Lead Data Engineer [01/2023 - 04/2023]  Designed an ETL architecture to migrate data from on-premise systems to Snowflake using Airflow.  Reduced daily data processing time from 6 hours to just 45 minutes.",
+        "Real-time Streaming Pipeline | Data Engineer [06/2022 - 09/2022]  Developed a data pipeline using Kafka and Spark Streaming to process financial transaction data.  The system enabled the fraud team to detect suspicious transactions in less than 200 milliseconds.  ---"
+    ],
+    "Experience": [
+        "Senior Data Engineer",
+        "Digital Bank | Dammam [05/2022] – [Present]  Designed and managed ETL pipelines that process over 2 TB of data daily with 99.9% accuracy.  Reduced cloud storage costs by 30% by optimizing data partitioning and archiving strategies.  Collaborated with data scientists to prepare features for machine learning models in an automated and scheduled manner.",
+        "Data Engineer",
+        "Retail Solutions Company | Khobar [08/2019] – [04/2022]  Built a central data lake on AWS S3 to unify the company's disparate data sources.  Developed Python scripts for Data Quality Checks, which reduced errors in reports by 80%.  ---"
+    ],
+    "Education": [
+        "Bachelor of Computer Information Systems",
+        "King Faisal University | Al-Ahsa [06/2019]  Professional Certifications: Data Engineering Nanodegree (Udacity), AWS Certified Data Analytics - Specialty."
+    ]
+}

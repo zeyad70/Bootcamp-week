@@ -1,0 +1,47 @@
+{
+    "Heading": "Reem Al-Marzooqi, Data Scientist",
+    "Skills": [
+        "*",
+        "**Machine",
+        "Learning:**",
+        "Regression,",
+        "Classification,",
+        "Clustering,",
+        "Time",
+        "Series",
+        "Forecasting. *",
+        "**Tools:**",
+        "Python",
+        "(Pandas,",
+        "NumPy,",
+        "Scikit-learn),",
+        "Spark",
+        "MLlib. *",
+        "**Statistics:**",
+        "Experimental",
+        "Design,",
+        "Statistical",
+        "Modeling. *",
+        "**BI",
+        "&",
+        "Visualization:**",
+        "Tableau,",
+        "Seaborn.  ---"
+    ],
+    "Projects": [
+        "Demand Forecasting for Retail | Data Scientist [02/2023 - 07/2023]  Developed a time-series model (SARIMAX) to forecast demand for hundreds of products.  The model helped optimize inventory levels and reduced stockouts by 20%.",
+        "A/B Testing Framework | Product Analyst [07/2022 - 12/2022]  Designed and implemented a framework for conducting A/B tests on a mobile app.  Drove a data-driven culture and led to a 5% increase in user conversion.  ---"
+    ],
+    "Experience": [
+        "Data Scientist",
+        "Mubadala | Abu Dhabi, UAE [08/2022] – [Present]  Applying data science techniques to support investment decision-making.  Analyzing market trends and identifying new investment opportunities.  Building models to assess the risk and return of potential investments.",
+        "Financial Analyst",
+        "Abu Dhabi Investment Authority (ADIA) | Abu Dhabi, UAE [06/2020] – [07/2022]  Conducted financial modeling and valuation of companies.  Prepared investment recommendations for the portfolio management team.  ---"
+    ],
+    "Education": [
+        "Master of Finance",
+        "INSEAD | Abu Dhabi, UAE [05/2020]",
+        "Bachelor of Science in Economics",
+        "Zayed University | Abu Dhabi, UAE [05/2018]"
+    ]
+}

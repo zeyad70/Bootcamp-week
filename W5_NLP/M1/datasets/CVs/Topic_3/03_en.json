@@ -1,0 +1,52 @@
+{
+    "Heading": "Sarah Al-Malki, Data Scientist",
+    "Skills": [
+        "*",
+        "**Programming",
+        "&",
+        "Analysis",
+        "Languages:**",
+        "Python,",
+        "R,",
+        "SQL",
+        "(Advanced). *",
+        "**Libraries",
+        "&",
+        "Tools:**",
+        "Pandas,",
+        "NumPy,",
+        "Scikit-learn,",
+        "XGBoost,",
+        "LightGBM. *",
+        "**Data",
+        "Visualization:**",
+        "Tableau,",
+        "Power",
+        "BI,",
+        "Matplotlib,",
+        "Seaborn. *",
+        "**Statistics",
+        "&",
+        "Mathematics:**",
+        "Hypothesis",
+        "Testing,",
+        "A/B",
+        "Testing,",
+        "Regression",
+        "Analysis.  ---"
+    ],
+    "Projects": [
+        "Customer Churn Prediction Model | Data Scientist [03/2023 - 06/2023]  Built a predictive model using the Random Forest algorithm to identify customers likely to leave the service.  The model helped the marketing team target at-risk customers, which increased the retention rate by 10%.",
+        "E-commerce Store Purchase Behavior Analysis | Data Analyst [08/2022 - 11/2022]  Performed Customer Segmentation using the K-Means Clustering algorithm to improve advertising campaigns.  The analysis led to an 18% increase in the Return on Investment (ROI) for marketing campaigns.  ---"
+    ],
+    "Experience": [
+        "Data Scientist",
+        "Noon | Dubai [07/2022] – [Present]  Developed Dynamic Pricing models based on demand and competition, which increased profit margins by 5%.  Designed and implemented A/B tests to improve the user interface, leading to a 3% increase in the conversion rate.  Analyzed data from over a million users to extract strategic insights presented to senior management to support decision-making.",
+        "Data Analyst",
+        "Integrated Telecom Company | Riyadh [06/2020] – [06/2022]  Built interactive dashboards using Tableau to monitor Key Performance Indicators (KPIs) in real-time.  Discovered patterns in customer complaints that led to a change in service policy and a 25% reduction in complaints.  ---"
+    ],
+    "Education": [
+        "Bachelor of Statistics and Operations Research",
+        "King Abdulaziz University | Jeddah [05/2020]  Professional Certifications: Data Scientist Nanodegree (Udacity), Google Data Analytics Certificate."
+    ]
+}

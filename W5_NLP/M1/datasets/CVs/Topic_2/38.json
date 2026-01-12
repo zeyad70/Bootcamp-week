@@ -1,0 +1,39 @@
+{
+    "Heading": "Dana Al-Ansari, Data Analyst",
+    "Skills": [
+        "*",
+        "**Data",
+        "Modeling:**",
+        "dbt,",
+        "Kimball",
+        "methodologies. *",
+        "**Data",
+        "Warehouse:**",
+        "Google",
+        "BigQuery. *",
+        "**ETL/ELT:**",
+        "Stitch,",
+        "Fivetran,",
+        "Airflow. *",
+        "**Languages",
+        "&",
+        "Tools:**",
+        "SQL,",
+        "Python,",
+        "Git.  ---"
+    ],
+    "Projects": [
+        "Marketing Funnel Analysis | Analytics Engineer [01/2023 - 06/2023]  Modeled the entire marketing and sales funnel using dbt, from first touch to conversion.  Provided a single source of truth for marketing performance analysis.",
+        "Migrating to dbt Cloud | Data Analyst [05/2022 - 10/2022]  Led the migration of a legacy SQL-based transformation pipeline to dbt Cloud.  Introduced version control, testing, and CI/CD to the analytics workflow.  ---"
+    ],
+    "Experience": [
+        "Analytics Engineer",
+        "Piksel | Manama, Bahrain [11/2021] – [Present]  Building and owning the data transformation layer using dbt and BigQuery.  Working in a modern, agile data team.  Collaborating with data scientists and analysts to empower them with clean data.",
+        "IT Support Specialist",
+        "Ahli United Bank | Manama, Bahrain [09/2019] – [10/2021]  Provided technical support to bank employees.  Developed a passion for data while helping the analytics team with their SQL queries.  ---"
+    ],
+    "Education": [
+        "Bachelor of Science in Information Technology",
+        "Bahrain Polytechnic | Isa Town, Bahrain [07/2019]"
+    ]
+}
